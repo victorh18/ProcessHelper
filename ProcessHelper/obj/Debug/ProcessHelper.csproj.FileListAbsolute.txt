@@ -1,0 +1,6 @@
+D:\projects\pluralsight\dotnet\ProcessHelper\ProcessHelper\bin\Debug\ProcessHelper.exe.config
+D:\projects\pluralsight\dotnet\ProcessHelper\ProcessHelper\bin\Debug\ProcessHelper.exe
+D:\projects\pluralsight\dotnet\ProcessHelper\ProcessHelper\bin\Debug\ProcessHelper.pdb
+D:\projects\pluralsight\dotnet\ProcessHelper\ProcessHelper\obj\Debug\ProcessHelper.csprojAssemblyReference.cache
+D:\projects\pluralsight\dotnet\ProcessHelper\ProcessHelper\obj\Debug\ProcessHelper.exe
+D:\projects\pluralsight\dotnet\ProcessHelper\ProcessHelper\obj\Debug\ProcessHelper.pdb
